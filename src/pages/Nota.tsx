@@ -32,10 +32,10 @@ Frente a estas crisis, las relaciones públicas son clave. No se trata de maquil
 
 
 La reconstrucción de la imagen es compleja, pero se basa en principios esenciales:
-- Asumir responsabilidad (el reconocimiento sincero es clave),
-- Comunicación empática y transparente (información clara y constante),
-- Acciones concretas y cambios estructurales (no basta con disculpas, como los cambios legislativos post-Cromañón),
-- Reconstrucción a largo plazo (la imagen no se recupera de un día para otro).
+Asumir responsabilidad (el reconocimiento sincero es clave),
+Comunicación empática y transparente (información clara y constante),
+Acciones concretas y cambios estructurales (no basta con disculpas, como los cambios legislativos post-Cromañón),
+Reconstrucción a largo plazo (la imagen no se recupera de un día para otro).
 
 De hecho, la banda involucrada tuvo que reinventarse: el cantante formó otro grupo tras la fuerte condena social. Estas tragedias marcaron un antes y un después en la organización de eventos masivos. Hoy, la seguridad es el pilar fundamental.
 
