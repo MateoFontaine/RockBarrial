@@ -48,7 +48,7 @@ const Home: React.FC = () => {
                   Las grandes tragedias dentro del rock Argentino
                 </h2>
                 <p><br /> RockBarrial nace como un espacio de memoria y reflexión. Nuestro objetivo es visibilizar las tragedias del rock nacional argentino, entendiendo sus causas, consecuencias y silencios. A través de una mirada crítica y comprometida, buscamos honrar a las víctimas, aprender del pasado y promover una cultura más consciente y segura.</p>
-                <p> <br />Segundo Mercado, Manuel Contreras</p>
+                <p> <br /> Por Segundo Mercado, Manuel Contreras</p>
               </div>
 
               {/* Grid de imágenes */}
