@@ -45,7 +45,7 @@ const Home: React.FC = () => {
                 <h1 className="text-6xl md:text-8xl font-black text-white leading-none mb-2">ROCK</h1>
                 <h1 className="text-6xl md:text-8xl font-black text-yellow-300 leading-none">Barrial</h1>
                 <h2 className="text-white text-xl md:text-xl font-medium mt-4 max-w-md">
-                  las grandes tragedias dentro del rock Argentino
+                  Las grandes tragedias dentro del rock Argentino
                 </h2>
                 <p><br /> RockBarrial nace como un espacio de memoria y reflexión. Nuestro objetivo es visibilizar las tragedias del rock nacional argentino, entendiendo sus causas, consecuencias y silencios. A través de una mirada crítica y comprometida, buscamos honrar a las víctimas, aprender del pasado y promover una cultura más consciente y segura.</p>
                 <p> <br />Segundo Mercado, Manuel Contreras</p>

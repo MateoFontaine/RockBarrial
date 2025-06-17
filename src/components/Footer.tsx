@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://www.instagram.com/rockbarrial.magazine?igsh=dWE1NzZ6eDVkcDd3" className="text-gray-400 hover:text-white transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">

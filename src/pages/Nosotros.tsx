@@ -12,7 +12,7 @@ const Nosotros: React.FC = () => {
     {
       name: "Manuel Contreras Brandan",
       role: "",
-      bio: "estudiante de segundo año de relaciones publicas e institucionales, una persona entusiasta e creativa, con ganas de aprender y enfrentar nuevos desafíos.",
+      bio: "Estudiante de segundo año de relaciones publicas e institucionales, una persona entusiasta y creativa, con ganas de aprender y enfrentar nuevos desafíos.",
       image: "https://media.licdn.com/dms/image/v2/D4E03AQGP4HHjcyHIzw/profile-displayphoto-shrink_800_800/B4EZd2SYaSHgAk-/0/1750036220964?e=1755734400&v=beta&t=XJbfQ6KE7Qpraoy4v7gCtMWiHHG8KH7LbvQ6mv5Niso"
     }
   ];
